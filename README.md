@@ -4,29 +4,29 @@ Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adap
 
 El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
 
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
+También incluye imágenes alternativas en la carpeta `img` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
 ### Capturas de pantalla:
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](img/screenshot1.png)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](img/screenshot2.png)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Proyectos](img/screenshot3.png)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios](img/screenshot4.png)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](img/screenshot5.png)
 
 ## Tecnologías
 
